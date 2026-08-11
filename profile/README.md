@@ -36,5 +36,5 @@ Current resources:
 
 - Website: https://www.cypherhunter.com
 - X: https://x.com/0xCypherHunter
-- Bluesky: https://bsky.app/profile/0xcypherhunter.bsky.social
+- Bluesky: https://bsky.app/profile/cypherhunter.com
 - Email: hello@cypherhunter.com
